@@ -27,6 +27,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="log4j2RocketMqTest" target="1.6" />
+      <module name="study-spring-boot_main" target="1.8" />
+      <module name="study-spring-boot_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

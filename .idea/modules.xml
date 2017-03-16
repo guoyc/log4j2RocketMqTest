@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/log4j2RocketMqTest.iml" filepath="$PROJECT_DIR$/log4j2RocketMqTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/modules/study-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-spring-boot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/study-spring-boot_main.iml" group="study-spring-boot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-spring-boot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/study-spring-boot_test.iml" group="study-spring-boot" />
     </modules>
   </component>
 </project>
